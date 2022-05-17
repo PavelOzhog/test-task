@@ -1,0 +1,8 @@
+
+#ignore dirrectory
+.idea
+target
+
+
+#ignore file
+.impl
